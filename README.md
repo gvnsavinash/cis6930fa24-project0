@@ -15,6 +15,16 @@ The project utilizes Python3, regular expressions, SQL, and Linux command line t
     1. requests
     2. pypdf 
     3. pytest 
+  
+## How to Run
+
+
+
+
+https://github.com/user-attachments/assets/0f539aff-3beb-49d8-9470-0eca0fc265f7
+
+
+
 
 ## Execution Steps
 Step 1: Set up the environment
